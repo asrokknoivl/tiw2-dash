@@ -22,6 +22,8 @@ Nous avons opté pour cette version enrichie car elle comporte ainsi plusieurs o
 - Tapez `pip install -r requirements.txt` pour installer toutes les dépendances.
 - Si toutes les étapes précédences ont été exécutées correctement, vous pouvez lancer la commande `python3 app.py` qui devrait lancer une application web dash qui montrerait ce que nous avons fait dans ce projet.
 
+P.S. vous avez aussi le ficher `app.ipynb`, dans lequel vous pouvez regarder les étapes qu'on a suivies et appliquées jusqu'à la fin.
+
 Si vous n'arrivez pas à lancer l'app sur votre machine, nous l'avons déployé sur une VM depuis la plateforme *openStack* , vous pouvez y avoir accés à travers ce lien, http://192.168.246.62/.
 
 Merci !
