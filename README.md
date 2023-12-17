@@ -13,7 +13,7 @@ Nous avons opté pour cette version enrichie car elle comporte ainsi plusieurs o
 
 ### Lancement du projet
 
-- Avant de commencer, vérifiez que vous avez `git`, `python (version 3.x)` , `virtualenv`installés sur votre machine.
+- Avant de commencer, vérifiez que vous avez `git`, `python (version 3.x)` , `virtualenv` installés sur votre machine.
 - Depuis la console de votre machine, lancez la commande `git clone https://github.com/asrokknoivl/tiw2-dash` et puis `cd tiw2-dash`
 - Téléchargez les données avec le lien: https://www.mediafire.com/file/07h966kudgaoo8r/data.zip/file et décompressez les dans le repo que vous avez clone.
 - Si les données sont créées dans un dossier *data* faites les sortir du dossier vers le dossier général (***/tiw2-dash***, ou se trouve le fichier `app.py`)
