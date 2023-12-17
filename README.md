@@ -24,6 +24,6 @@ Nous avons opté pour cette version enrichie car elle comporte ainsi plusieurs o
 
 P.S. vous avez aussi le ficher `app.ipynb`, dans lequel vous pouvez regarder les étapes qu'on a suivies et appliquées jusqu'à la fin.
 
-Si vous n'arrivez pas à lancer l'app sur votre machine, nous l'avons déployé sur une VM depuis la plateforme *openStack* , vous pouvez y avoir accés à travers ce lien, http://192.168.246.62/.
+Si vous n'arrivez pas à lancer l'app sur votre machine, nous l'avons déployé sur une VM depuis la plateforme *openStack* , vous pouvez y avoir accés à travers ce lien, http://192.168.246.62/ (N.B. Assurez vous que vous êtes connectés soit sur le réseau Eduroam de la fac, ou sur le VPN `sslvpn.univ-lyon1.fr`).
 
 Merci !
