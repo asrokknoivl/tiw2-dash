@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Outfit', sans-serif;
+}
+.title-container {
+    background-color: #B7234f;
+    height: 60px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    color: white;
+    font-weight: 700;
+}
+
+.subtitle-container {
+    margin-top: 20px;
+    background-color: #1e81b0;
+    height: fit-content;
+    width: fit-content;
+    align-items: center;
+    justify-content: left;
+    border-radius: 12px;
+}
+
+
+.subtitle {
+    margin: 10px;
+    color: white;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.container {
+    margin: 10px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.container1 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 20px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.dropdown-container{
+    margin-top: 10%;
+    font-family: 'Outfit', sans-serif;
+}
+
+.container2 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 20px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.container3 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 20px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.container4 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 20px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.dropdown-container2{
+    margin-top: 5%;
+    font-family: 'Outfit', sans-serif;
+}
+
+#ratings_centrality-dropdown{
+    margin-bottom: 10px;
+    margin-left: 5%;
+    font-family: 'Outfit', sans-serif;
+}
+
+#to_read_centrality_dropdown{
+    margin-bottom: 10px;
+    margin-left: 5%;
+    font-family: 'Outfit', sans-serif;
+}
